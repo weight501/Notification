@@ -1,0 +1,11 @@
+C:\Programming\Projects\c++\Notification\Notification\hstring_wrapper.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\hstring_wrapper.ixx.obj
+C:\Programming\Projects\c++\Notification\Notification\main.cpp;C:\Programming\Projects\c++\Notification\Notification\x64\Release\main.obj
+C:\Programming\Projects\c++\Notification\Notification\notification_support.cpp;C:\Programming\Projects\c++\Notification\Notification\x64\Release\notification_support.obj
+C:\Programming\Projects\c++\Notification\Notification\notification_support.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\notification_support.ixx.obj
+C:\Programming\Projects\c++\Notification\Notification\toast.cpp;C:\Programming\Projects\c++\Notification\Notification\x64\Release\toast.obj
+C:\Programming\Projects\c++\Notification\Notification\toast.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\toast.ixx.obj
+C:\Programming\Projects\c++\Notification\Notification\toast_api.cpp;C:\Programming\Projects\c++\Notification\Notification\x64\Release\toast_api.obj
+C:\Programming\Projects\c++\Notification\Notification\toast_constants.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\toast_constants.ixx.obj
+C:\Programming\Projects\c++\Notification\Notification\toast_exception.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\toast_exception.ixx.obj
+C:\Programming\Projects\c++\Notification\Notification\windows_toast.cpp;C:\Programming\Projects\c++\Notification\Notification\x64\Release\windows_toast.obj
+C:\Programming\Projects\c++\Notification\Notification\windows_toast.ixx;C:\Programming\Projects\c++\Notification\Notification\x64\Release\windows_toast.ixx.obj

@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\toast_exception.ixx.obj",
+            "outputs": [
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\toast_exception.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "toast.exception",
+                    "source-path": "c:\\programming\\projects\\c++\\notification\\notification\\toast_exception.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

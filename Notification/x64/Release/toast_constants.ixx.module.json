@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\toast_constants.ixx.obj",
+            "outputs": [
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\toast_constants.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "toast.types",
+                    "source-path": "c:\\programming\\projects\\c++\\notification\\notification\\toast_constants.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

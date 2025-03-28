@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\programming\\projects\\c++\\notification\\notification\\notification_support.ixx",
+        "ProvidedModule": "toast.notification_support",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "toast.types",
+                "BMI": "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\toast_constants.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

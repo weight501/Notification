@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\notification_support.ixx.obj",
+            "outputs": [
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Programming\\Projects\\c++\\Notification\\Notification\\x64\\Release\\notification_support.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "toast.notification_support",
+                    "source-path": "c:\\programming\\projects\\c++\\notification\\notification\\notification_support.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "toast.types"
+                }
+            ]
+        }
+    ]
+}
